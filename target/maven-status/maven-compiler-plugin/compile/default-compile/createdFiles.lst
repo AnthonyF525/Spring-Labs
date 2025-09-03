@@ -1,0 +1,3 @@
+com/example/Crypto/CryptoApplication.class
+com/example/Crypto/domain/CryptoCurrency.class
+com/example/Crypto/repository/CryptoCurrencyRepository.class
